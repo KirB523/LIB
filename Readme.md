@@ -44,6 +44,7 @@ R 2W ±5%
 </blockquote></details>  
 
 <details><summary> Capasitors </summary><blockquote>
+
 ~~~
 Керамические
 С0603 X7R
