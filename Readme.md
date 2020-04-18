@@ -2,7 +2,7 @@ Library
 
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>OpAmps</summary>
   
   LM2517
 
@@ -10,7 +10,6 @@ Library
 
   Hit88
 
-<details>
 
 Closeljk  
 
