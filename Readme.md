@@ -99,86 +99,224 @@ ECAP 18х35
 
 <details><summary> Resistors Other </summary><blockquote>
 
+~~~
+
+~~~
+
 </blockquote></details>
 
 <details><summary> Capasitors Other </summary><blockquote>
+
+~~~
+К78-2 150нФ
+~~~
 
 </blockquote></details>
 
 <details><summary> Diode </summary><blockquote>
 
+~~~
+BYV42E
+
+MURS260T3G
+MURS360T3G
+~~~
+
 </blockquote></details>
 
 <details><summary> Transistor </summary><blockquote>
+
+~~~
+HGTG12N60A4D
+~~~
 
 </blockquote></details>
 
 <details><summary> OpAmp </summary><blockquote>
 
+~~~
+MCP6004
+~~~
+
 </blockquote></details>
 
 <details><summary> Microcontroller </summary><blockquote>
+
+~~~
+STM32F103C8T6 BluePill
+~~~
 
 </blockquote></details>
 
 <details><summary> LinearVoltage </summary><blockquote>
 
+~~~
+LM1117DT-5.0/NOPB
+~~~
+
 </blockquote></details>
 
 <details><summary> SMPScontrol </summary><blockquote>
+
+~~~
+
+~~~
 
 </blockquote></details>
 
 <details><summary> Contact </summary><blockquote>
 
+~~~
+X-1
+X-2
+X-3
+X-4
+X-5
+X-6
+X-7
+X-8
+X-9
+X-10
+X-11
+X-12
+X-13
+X-14
+X-15
+X-16
+X-17
+X-18
+X-19
+X-20
+X-21
+X-22
+X-23
+X-24
+X-25
+X-26
+X-27
+X-28
+X-29
+X-30
+X-31
+X-32
+X-33
+X-34
+X-35
+X-36
+X-37
+X-38
+X-39
+X-40
+
+Testpoint
+
+
+Jumper-2
+
+~~~
+
 </blockquote></details>
 
 <details><summary> Logic </summary><blockquote>
+
+~~~
+
+~~~
 
 </blockquote></details>
 
 <details><summary> Interface </summary><blockquote>
 
+~~~
+
+~~~
+
 </blockquote></details>
 
 <details><summary> Protection </summary><blockquote>
+
+~~~
+
+~~~
 
 </blockquote></details>
 
 <details><summary> Drivers </summary><blockquote>
 
+~~~
+IR2113
+
+~~~
+
 </blockquote></details>
 
 <details><summary> MotorControl </summary><blockquote>
+
+~~~
+
+~~~
 
 </blockquote></details>
 
 <details><summary> Magnetics </summary><blockquote>
 
+~~~
+BuckQR: L resonant
+
+~~~
+
 </blockquote></details>
 
 <details><summary> LED </summary><blockquote>
+
+~~~
+
+~~~
 
 </blockquote></details>
 
 <details><summary> Quartz </summary><blockquote>
 
+~~~
+
+~~~
+
 </blockquote></details>
 
 <details><summary> Device </summary><blockquote>
+
+~~~
+
+~~~
 
 </blockquote></details>
 
 <details><summary> Sensor </summary><blockquote>
 
+~~~
+LTS 25-NP
+
+~~~
+
 </blockquote></details>
 
 <details><summary> OptoCoupler </summary><blockquote>
+
+~~~
+HCPL-0630
+
+~~~
 
 </blockquote></details>
 
 <details><summary> DC-DC </summary><blockquote>
 
+~~~
+
+~~~
+
 </blockquote></details>
 
 </blockquote></details>
+
+По умолчанию LIB.DbLib ссылается на DATA.xlsm который находится в C:\Users\Public\Documents\Altium\Libraries. Для автоматизации в репозитории имеется файл update.bat который копирует необходимые файлы библиотеки в указанный выше путь.
